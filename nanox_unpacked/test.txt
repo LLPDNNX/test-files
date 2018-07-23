@@ -1,5 +1,6 @@
-test-files/nanox_unpacked/test_1.root
-test-files/nanox_unpacked/test_2.root
-test-files/nanox_unpacked/test_3.root
-test-files/nanox_unpacked/test_4.root
-test-files/nanox_unpacked/test_5.root
+./test.root
+./test_1.root
+./test_2.root
+./test_3.root
+./test_4.root
+./test_5.root

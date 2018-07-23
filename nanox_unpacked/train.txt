@@ -1,5 +1,6 @@
-test-files/nanox_unpacked/train_1.root
-test-files/nanox_unpacked/train_2.root
-test-files/nanox_unpacked/train_3.root
-test-files/nanox_unpacked/train_4.root
-test-files/nanox_unpacked/train_5.root
+./train.root
+./train_1.root
+./train_2.root
+./train_3.root
+./train_4.root
+./train_5.root
